@@ -13,7 +13,7 @@
   ## Table of Contents
 
   - [Installation](#installation)
-  - [Screenshots / Videos](#screenshots--videos)
+  - [Screenshots](#screenshots)
   - [Usage](#usage)
   - [credits]()
   - [Contributing](#contributing)
@@ -28,18 +28,14 @@
     4. npm run sedd (on server)
     5. npm run start (on main)
 
-## Screenshots / Videos
-![Landing Page Pic](http://electronicHealthProject/assets/pic1.png)
+## Screenshots 
+![Landing Page Pic](client/src/assets/SS1.png)
 This is the Homepage.
 
-![Doctor Profile with OASH API dropdown](http://electronicHealthProject/assets/pic2.png)
+![Doctor Profile with OASH API dropdown](client/src/assets/SS2.png)
 This is Doctor Profile page with OASH API dropdown.
 
-![New Patient Profile creation with Cloudinary image upload](http://electronicHealthProject/assets/pic3.png)
-This is a new Patient Profile creation with Cloudinary image upload.
 
-![Patient Profile page](http://electronicHealthProject/assets/pic4.png)
-This is the new Patient Profile on login.
 
 
 ## Usage
