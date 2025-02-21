@@ -9,8 +9,8 @@ const Patient = PatientFactory(sequelize);
 // const Note = fetchNotes();
 
 // Define Many-to-Many Association
-Dr.belongsToMany(Patient, { through: 'DoctorPatients', foreignKey: 'dr_id' });
-Patient.belongsToMany(Dr, { through: 'DoctorPatients', foreignKey: 'patient_id' });
+// Dr.belongsToMany(Patient, { through: 'DoctorPatients', foreignKey: 'dr_id' });
+// Patient.belongsToMany(Dr, { through: 'DoctorPatients', foreignKey: 'patient_id' });
 
 // Sync Database
 // sequelize.sync({ alter: true })  // Use { force: true } only for development resets
