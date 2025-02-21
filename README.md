@@ -14,6 +14,7 @@
 
   - [Installation](#installation)
   - [Screenshots](#screenshots)
+  - [Link](#link)
   - [Usage](#usage)
   - [credits]()
   - [Contributing](#contributing)
@@ -33,10 +34,11 @@
 This is the Homepage.
 
 ![Doctor Profile with OASH API dropdown](client/src/assets/SS2.png)
-This is Doctor Profile page with OASH API dropdown.
+This is the Patient Profile page.
 
 
-
+## Link
+For the link to the Deployment [Click Here](https://electronichealthproject-buwb.onrender.com/)!
 
 ## Usage
     1. Login with email and password. 
